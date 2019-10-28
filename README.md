@@ -1,2 +1,0 @@
-# SQL
-Created with CodeSandbox
